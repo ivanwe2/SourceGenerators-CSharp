@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ReflectionSolution": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
