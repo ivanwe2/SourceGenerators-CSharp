@@ -13,9 +13,7 @@
   </ItemGroup>
 
 	<ItemGroup>
-		<ProjectReference Include="..\WiredBrainCoffee.Generators\WiredBrainCoffee.Generators.csproj"
-						  OutputItemType="Analyzer"
-						  ReferenceOutputAssembly="false"/>
+		<ProjectReference Include="..\WiredBrainCoffee.Generators\WiredBrainCoffee.Generators.csproj" OutputItemType="Analyzer" ReferenceOutputAssembly="false" />
 	</ItemGroup>
 
 </Project>
